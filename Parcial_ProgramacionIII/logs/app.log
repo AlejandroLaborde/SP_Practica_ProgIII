@@ -1,0 +1,39 @@
+[2019-11-24 00:16:03] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=usuario%2F1016, autoridad=localhost%3A82 [] {"uid":"e4643a6"}
+[2019-11-24 00:17:00] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=usuario%2F1016, autoridad=localhost%3A82 [] {"uid":"f3cbd51"}
+[2019-11-24 00:18:21] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"5f78961"}
+[2019-11-24 00:20:28] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"5b35c37"}
+[2019-11-24 00:28:32] UTN FRA LOGGER.INFO: asdadadada [] {"uid":"54de785"}
+[2019-11-24 00:28:32] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"54de785"}
+[2019-11-24 00:29:26] EXAMEN.INFO: asdadadada [] {"uid":"8090027"}
+[2019-11-24 00:29:26] EXAMEN.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"8090027"}
+[2019-11-24 00:30:00] INFO.INFO: asdadadada [] {"uid":"ded8670"}
+[2019-11-24 00:30:00] INFO.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"ded8670"}
+[2019-11-24 00:35:15] UTN FRA LOGGER.INFO: asdadadada [] {"uid":"9470be8"}
+[2019-11-24 00:35:15] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"9470be8"}
+[2019-11-24 00:37:13] UTN FRA LOGGER.INFO: metodo=alejandroooo, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=nosee, autoridad=localhost%3A82 [] {"uid":"2e0a291"}
+[2019-11-24 00:37:13] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"2e0a291"}
+[2019-11-24 00:40:14] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"49e5902"}
+[2019-11-24 00:44:06] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"9610818"}
+[2019-11-24 00:44:33] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"416a87f"}
+[2019-11-24 00:46:39] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"6cd08ce"}
+[2019-11-24 00:46:48] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"f98a654"}
+[2019-11-24 00:51:43] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"0bd5bd7"}
+[2019-11-24 00:52:30] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"725ab14"}
+[2019-11-24 00:52:50] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"d0fad83"}
+[2019-11-24 00:54:57] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"cd37ad0"}
+[2019-11-24 00:55:09] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"61a11d6"}
+[2019-11-24 00:55:21] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"1e7b998"}
+[2019-11-24 00:55:34] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"7e142ac"}
+[2019-11-24 00:55:50] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"da6317f"}
+[2019-11-24 00:55:54] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"16bd015"}
+[2019-11-24 00:55:56] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"2305fae"}
+[2019-11-24 00:56:14] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"d23da37"}
+[2019-11-24 00:58:06] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"54964d5"}
+[2019-11-24 00:58:15] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"9270e4d"}
+[2019-11-24 00:58:27] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"1f5bcf7"}
+[2019-11-24 01:01:18] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%3A82%2FParcial%2Fpublic, RUTA=login, autoridad=localhost%3A82 [] {"uid":"7b030fc"}
+[2019-11-25 13:01:11] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FParcial_ProgramacionIII%2Fpublic, RUTA=usuario, autoridad=localhost [] {"uid":"242999b"}
+[2019-11-25 13:02:18] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FParcial_ProgramacionIII%2Fpublic, RUTA=usuario, autoridad=localhost [] {"uid":"dab4daf"}
+[2019-11-25 13:02:49] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FParcial_ProgramacionIII%2Fpublic, RUTA=usuario, autoridad=localhost [] {"uid":"08f2731"}
+[2019-11-25 13:03:42] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FParcial_ProgramacionIII%2Fpublic, RUTA=usuario, autoridad=localhost [] {"uid":"22cbe4c"}
+[2019-11-25 13:04:37] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FParcial_ProgramacionIII%2Fpublic, RUTA=login, autoridad=localhost [] {"uid":"7543447"}
